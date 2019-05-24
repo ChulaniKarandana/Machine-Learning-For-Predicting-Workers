@@ -1,0 +1,19 @@
+SiddhiApp,Source,Number_of_Workers,Number_of_partial_siddhi_apps,DataRate,TmeWindowSize,No_of_flters,No. of operands,Throughput
+logprocessor-3,kafka,3,3,3,30,1,1,209.1050792
+logprocessor-3,kafka,3,6,3,30,1,1,403.0984941
+logprocessor-3,kafka,3,9,3,30,1,1,515.3731139
+logprocessor-3,kafka,3,18,3,30,1,1,717.2404052
+logprocessor-3,kafka,6,6,3,30,1,1,383.6897582
+logprocessor-3,kafka,6,9,3,30,1,1,696.2238515
+logprocessor-3,kafka,6,18,3,30,1,1,739.1221529
+logprocessor-3,kafka,9,9,3,30,1,1,680.3693606
+logprocessor-3,kafka,9,18,3,30,1,1,416.0763731
+logprocessor-1,kafka,3,9,15,30,1,1,135.2985824
+logprocessor-1,kafka,6,9,15,30,1,1,93.38069469
+logprocessor-1,kafka,9,9,15,30,1,1,91.77418955
+logprocessor-2,kafka,3,9,15,30,1,1,82.27949352
+logprocessor-2,kafka,6,9,15,30,1,1,174.5949768
+logprocessor-2,kafka,9,9,15,30,1,1,254.7509169
+nexMark,kafka,3,9,87,30,1,1,579.5692184
+nexMark,kafka,6,9,87,30,1,1,657.2481623
+nexMark,kafka,9,9,87,30,1,1,583.1
